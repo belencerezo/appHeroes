@@ -1,0 +1,28 @@
+/* 
+  Localized.strings
+  AppSuperheros
+
+  Created by Bel Cerezo on 2/3/21.
+  
+*/
+
+//***FILTER***
+"all" = "All";
+"dc" = "DC Comics";
+"marvel" = "Marvel Comics";
+"others" = "Others";
+
+//***Info Cell***
+
+"race" = "Race:";
+"gender" = "Gender:";
+"height" = "Height:";
+"weight" = "Weight:";
+"int" = "Intelligence:";
+"str" = "Strength:";
+"dur" = "Durability:";
+"speed" = "Speed:";
+"combat" = "Combat:";
+"power" = "Power:";
+"fullname" = "Full name:";
+"work" = "Work:";
